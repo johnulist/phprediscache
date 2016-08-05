@@ -9,9 +9,11 @@ Be sure to install both redis server and the php-redis client.
 
 
 
-### Requirements
+### Minimum Requirements
+- PHP 5.4
 
- follow the following rules:
+### Installation
+Follow these instructions:
 
 * Install redis server (check [http://redis.io/download]) 
 * Install php-redis (for Ubuntu: `apt-get install php5-redis`)
