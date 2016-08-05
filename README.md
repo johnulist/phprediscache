@@ -11,6 +11,7 @@ Be sure to install both redis server and the php-redis client.
 
 ### Minimum Requirements
 - PHP 5.4
+- PrestaShop 1.6.1.0
 
 ### Installation
 Follow these instructions:
